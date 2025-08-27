@@ -2,4 +2,4 @@
 
 | Title |  Go to Notebook    |
 | :---:   | :---: |
-| Researching German Historical Newspapers with Llama 3 Model - OCR Post-Correction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soberbichler/Notebooks4Historical_Newspapers/blob/main/Llama3_OCR.ipynb)| 
+| Introduction to Notebooks as Coding Environment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eiTry-bv1Ds6P7sjx-7vmnvr8kyMwxEM?usp=sharing)| 
