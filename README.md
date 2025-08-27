@@ -1,4 +1,4 @@
-# Introduction-to-Notebooks-as-Coding-Environments-Humanities-Researchers-
+# Introduction to Notebooks and Python fpr Humanities Researchers
 
 | Title |  Go to Notebook    |
 | :---:   | :---: |
