@@ -1,4 +1,4 @@
-# Introduction to Notebooks and Python fpr Humanities Researchers
+# Introduction to Notebooks and Python for Humanities Researchers
 
 | Title |  Go to Notebook    |
 | :---:   | :---: |
