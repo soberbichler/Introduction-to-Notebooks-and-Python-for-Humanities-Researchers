@@ -3,7 +3,7 @@
 | Title |  Go to Notebook    |
 | :---:   | :---: |
 | Introduction to Notebooks as Coding Environment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soberbichler/Introduction-to-Notebooks-and-Python-for-Humanities-Researchers/blob/main/Notebook_Introduction.ipynb)| 
-| Processing Datasets in Notebooks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ieg-dhr/NLP-Course4Humanities_2024/blob/main/Python_CrashCourse_2.ipynb)| 
+| Processing Datasets in Notebooks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soberbichler/Introduction-to-Notebooks-and-Python-for-Humanities-Researchers/blob/main/Processing_Datasets.ipynb)| 
 
 
 
